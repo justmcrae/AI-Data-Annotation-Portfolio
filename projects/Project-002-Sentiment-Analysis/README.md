@@ -1,0 +1,135 @@
+# Project 002: Sentiment Analysis
+
+## Overview
+
+This project demonstrates a complete sentiment annotation workflow for customer feedback collected across multiple industries, including e-commerce, banking, travel, healthcare, food services, education, and software applications.
+
+The objective was to classify each customer message according to its overall sentiment while applying consistent annotation guidelines to challenging and ambiguous cases. Particular attention was given to messages containing both positive and negative opinions, factual status updates, service recovery scenarios, and expectation-based evaluations.
+
+Unlike simple sentiment classification exercises, this project includes a documented quality assurance (QA) process with reviewer feedback, annotation rationale, and adjudication of difficult examples to simulate a real-world annotation environment.
+
+---
+
+## Objectives
+
+- Build a high-quality sentiment analysis dataset from scratch.
+- Apply consistent sentiment labels using well-defined annotation guidelines.
+- Handle ambiguous and edge-case examples through structured reasoning.
+- Perform quality assurance reviews to improve annotation consistency.
+- Document the complete annotation workflow as a professional portfolio project.
+
+---
+
+## Label Schema
+
+The dataset uses four sentiment categories:
+
+| Label | Description |
+|--------|-------------|
+| **Positive** | The customer expresses satisfaction, praise, or a favorable opinion. |
+| **Negative** | The customer expresses dissatisfaction, frustration, criticism, or reports a negative experience. |
+| **Neutral** | The message communicates factual information or a status update without expressing clear sentiment. |
+| **Mixed** | The message contains both positive and negative opinions that materially contribute to the overall meaning. |
+
+---
+
+## Dataset Information
+
+- **Dataset Size:** 150 customer messages
+- **Annotation Method:** Manual annotation
+- **Quality Assurance:** Reviewer validation and adjudication
+- **Domains Covered:**
+  - E-commerce
+  - Banking
+  - Food Delivery
+  - Restaurants
+  - Travel
+  - Healthcare
+  - Education
+  - Software & Technology
+  - Telecommunications
+  - Customer Support
+
+---
+
+## Annotation Workflow
+
+1. Created realistic customer feedback examples.
+2. Applied sentiment labels according to predefined guidelines.
+3. Documented reasoning for ambiguous annotations.
+4. Conducted QA review on every annotation batch.
+5. Reviewed disagreements through adjudication.
+6. Produced a finalized, quality-checked dataset.
+
+---
+
+## Quality Assurance Process
+
+This project incorporates a structured QA workflow rather than relying solely on initial annotations.
+
+The QA process focused on:
+
+- consistency across similar examples
+- dominant sentiment identification
+- distinguishing factual statements from opinions
+- evaluating mixed sentiment cases
+- resolving annotation disagreements through reviewer feedback
+
+The workbook contains:
+
+- **QA Review** — original annotations, annotation rationale, reviewer comments, and corrections.
+- **Final Annotated Dataset** — finalized labels after QA review.
+
+---
+
+## Skills Demonstrated
+
+- Sentiment Analysis
+- Data Annotation
+- Natural Language Processing (NLP)
+- Annotation Quality Assurance
+- Annotation Guideline Development
+- Edge Case Analysis
+- Dataset Curation
+- Documentation
+- Critical Reasoning
+- Consistency Review
+
+---
+
+## Project Structure
+
+```
+Project-002-Sentiment-Analysis/
+
+│── README.md
+
+│── dataset/
+│     └── Sentiment_Analysis.xlsx
+
+│── documentation/
+│     ├── Annotation-Guidelines.pdf
+│     ├── QA-Review-Report.pdf
+│     ├── Project-Summary.pdf
+│     └── Project-Reflection.pdf
+```
+
+---
+
+## Tools Used
+
+- Microsoft Excel
+- GitHub
+- ChatGPT (QA simulation and annotation review)
+
+---
+
+## Learning Outcomes
+
+This project strengthened practical skills in sentiment annotation by emphasizing consistent decision-making, structured quality assurance, and evidence-based resolution of ambiguous cases. It also reinforced the importance of clear annotation guidelines and reviewer calibration in producing reliable datasets suitable for AI model training.
+
+---
+
+## Repository
+
+This project is part of the **AI Data Annotation Portfolio**, a collection of realistic annotation projects designed to demonstrate practical experience in AI data annotation, NLP, and quality assurance workflows.
