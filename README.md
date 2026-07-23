@@ -87,7 +87,9 @@ AI-Data-Annotation-Portfolio/
 ## Current Progress
 
 - ✅ Project 001 Completed
-- 🚧 Project 002 Coming Next
+- ✅ Project 002 Completed
+- ✅ Project 003 Completed
+- 🚧 Project 004 Coming up
 
 ---
 
