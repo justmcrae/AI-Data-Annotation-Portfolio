@@ -92,7 +92,7 @@ Reviewer feedback was incorporated after every review cycle to improve annotatio
 Project-003-Named-Entity-Recognition/
 │
 ├── dataset/
-│   └── Named-Entity-Recognition-Dataset.xlsx
+│   └── Named_Entity_Recognition_Dataset.xlsx
 │
 ├── documentation
 │   ├── Annotation-Guidelines.pdf
