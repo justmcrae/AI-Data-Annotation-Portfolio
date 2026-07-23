@@ -21,8 +21,8 @@ My goal is to build high-quality annotation datasets while developing expertise 
 | Status | Project | Task Type |
 |:------:|---------|-----------|
 | ✅ | Project 001 – Customer Support Ticket Intent Classification | Intent Classification |
-| ⏳ | Project 002 – Sentiment Analysis | Sentiment Classification |
-| ⏳ | Project 003 – Named Entity Recognition (NER) | Entity Annotation |
+| ✅ | Project 002 – Sentiment Analysis | Sentiment Classification |
+| ✅ | Project 003 – Named Entity Recognition (NER) | Entity Annotation |
 | ⏳ | Project 004 – Content Moderation | Safety Annotation |
 | ⏳ | Project 005 – LLM Response Evaluation | AI Response Evaluation |
 
